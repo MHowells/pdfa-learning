@@ -323,6 +323,13 @@ A notebook is also provided to verify the results of the examples in the
 literature:
 - [`04_verifying_literature.ipynb`](examples/nbs/04_verifying_literature.ipynb)
 
+To run the notebooks in a browser, you can use [Binder](https://mybinder.org/v2/gh/MHowells/pdfa-learning/HEAD), 
+or by clicking the badge at the top of this README. This will launch a 
+temporary JupyterLab that contains the code and notebooks in this repository. 
+You can then run the notebooks interactively in your browser without needing
+to install any software on your local machine. Note that the Binder environment
+is temporary and will be deleted when you close the browser tab.
+
 ## Running tests
 
 You can run the complete test suite using the following command:
