@@ -9,4 +9,7 @@ dependencies:
   - scipy=1.13.1
   - pytest=8.4.2
   - coverage=7.10.7
-  - graphviz=0.16
+  - graphviz
+  - pip
+  - pip:
+      - graphviz==0.16
