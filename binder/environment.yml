@@ -4,12 +4,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11.1
-  - pip
-  - graphviz
   - numpy=1.26.4
   - pandas=2.3.3
   - scipy=1.13.1
   - pytest=8.4.2
   - coverage=7.10.7
-  - pip:
-    - graphviz=0.16
+  - graphviz=0.16
