@@ -1,6 +1,7 @@
 # pdfa-learning
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20932562.svg)](https://doi.org/10.5281/zenodo.20932562)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MHowells/pdfa-learning/HEAD)
 
 This repository contains code for running the grammatical inference algorithm 
 ALERGIA for sequential pattern mining. It includes functions for constructing 
@@ -54,7 +55,7 @@ To install the dependencies:
 Alternatively, you can use conda to create a new environment with the required
 dependencies by running the following command:
 
-    $ conda env create --file environment.yml
+    $ conda env create --file binder/environment.yml
 
 ## Input data
 
